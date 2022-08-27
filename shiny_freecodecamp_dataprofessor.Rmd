@@ -1,0 +1,13 @@
+---
+title: "shiny_freecodecamp_dataprofessor"
+output: html_document
+date: "2022-08-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[R Shiny for Data Science Tutorial -- Build Interactive Data-Driven Web Apps](https://www.youtube.com/watch?v=9uFQECk30kA)
+
+[github code](https://github.com/dataprofessor/code/tree/master/shiny)
